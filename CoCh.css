@@ -1,0 +1,30 @@
+/*
+ Color Changer Styling
+*/
+.container {
+
+    margin-top: 6rem;
+    justify-items: center;
+}
+
+#change-color-btn {
+    margin-top: 1rem;
+    text-align: center;
+    border-radius: 45%;
+    background-color: aqua;
+   padding: 10px 20px;
+}
+
+#change-color-btn:hover {
+    background-color: rgb(37, 221, 221);
+    box-shadow: 5px 5px 10px;
+}
+ 
+#color-box {  
+    border-color: aqua;
+    border-style: groove;
+    background-color: #e41134;
+    width: 13rem;
+     border-radius: 20%;
+    height: 15rem;
+}
